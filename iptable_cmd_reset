@@ -1,3 +1,0 @@
-sudo iptables -D INPUT -j NFQUEUE
-sudo iptables -D OUTPUT -j NFQUEUE
-sudo iptables -L

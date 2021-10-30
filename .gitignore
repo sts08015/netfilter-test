@@ -1,1 +1,6 @@
+#ignore vscode files
 /.vscode/
+
+#ignore command files
+iptable_cmd_reset
+iptable_cmd_set
