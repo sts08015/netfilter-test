@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "libnetfilter_queue.h": "c",
+        "types.h": "c"
+    }
+}
